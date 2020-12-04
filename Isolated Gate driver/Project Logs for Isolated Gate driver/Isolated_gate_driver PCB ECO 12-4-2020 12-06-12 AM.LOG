@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=NetDriver-1_2 Pin=P4-1
+Removed Pin From Net: NetName=NetDriver-1_12 Pin=P4-2
+Removed Pin From Net: NetName=NetDriver-1_4 Pin=P4-3
+Removed Pin From Net: NetName=NetDriver-1_5 Pin=P4-4
+Removed Pin From Net: NetName=NetDriver-1_6 Pin=P4-5
+Added Component: Designator=U?(SOP65P640X120-20N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=105750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=105750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TXS0108EPWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSSOP-20 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TXS0108EPWR/Texas%20Instruments/view-part/105750/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=105750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDriver-1_2 Pin=U-1
+Added Pin To Net: NetName=NetDriver-1_12 Pin=U-3
+Added Pin To Net: NetName=NetDriver-1_4 Pin=U-4
+Added Pin To Net: NetName=NetDriver-1_5 Pin=U-5
+Added Pin To Net: NetName=NetDriver-1_6 Pin=U-6
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=U-15
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetP4_2 Pin=U-16
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetP4_3 Pin=P4-3
+Added Pin To Net: NetName=NetP4_3 Pin=U-17
+Added Net: Name=NetP4_3
+Added Pin To Net: NetName=NetP4_4 Pin=P4-4
+Added Pin To Net: NetName=NetP4_4 Pin=U-18
+Added Net: Name=NetP4_4
+Added Pin To Net: NetName=NetP4_5 Pin=P4-5
+Added Pin To Net: NetName=NetP4_5 Pin=U-20
+Added Net: Name=NetP4_5
+Added Member To Class: ClassName=Isolated_gate_drive Member=Component U? TXS0108EPWR

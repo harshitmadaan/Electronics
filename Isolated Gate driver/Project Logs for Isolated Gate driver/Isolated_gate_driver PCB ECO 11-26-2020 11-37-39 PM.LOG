@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetDriver-3_5 Pin=P5-4
+Added Pin To Net: NetName=NetDriver-2_5 Pin=P5-4
+Added Member To Class: ClassName=Isolated_gate_drive Member=Component C7 Cap
+Added Member To Class: ClassName=Isolated_gate_drive Member=Component D1 1N4007
+Added Member To Class: ClassName=Isolated_gate_drive Member=Component P4 Header 5
